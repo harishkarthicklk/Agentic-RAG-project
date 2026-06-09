@@ -1,0 +1,15 @@
+openai-whisper
+torch
+langchain
+langchain-core
+pandas
+tqdm
+langchain-text-splitters
+sentence-transformers
+langchain-huggingface
+pymongo
+langchain-mongodb
+python-dotenv
+langgraph
+langsmith
+pandas
